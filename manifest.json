@@ -1,16 +1,12 @@
 {
-  "name": "30 Minute Break",
+  "name": "You Could Use A Break",
   "version": "1.2",
-  "description": "Alerts you to take a break every 30 minutes.",
+  "description": "Alerts you to take a break from staring at this god damn screen.",
   "permissions": ["tabs", "declarativeContent", "storage"],
   
   "browser_action": {
     "default_icon": "image.png",
     "default_popup": "popup.html"
   },
-  // "background": {
-  //   "scripts": ["background.js"],
-  //   "persistent": false
-  // },
   "manifest_version": 2
 }
