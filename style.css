@@ -8,7 +8,7 @@ h1 {
 
 body {
   width: 180px;
-  background-color: red;
+  background-color: indianred;
   text-align: center;
   transition-duration: 1s;
   transition-delay: 1s;
@@ -30,8 +30,8 @@ button {
 }
 
 button:hover{
-  color:#000000;
-  background-color: yellow;
+  color: white;
+  background-color: lightslategray;
   font-weight: bold;
   border: 1px black solid;
 }
