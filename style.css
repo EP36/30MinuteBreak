@@ -1,0 +1,20 @@
+h1 {
+  font-size: 20px;
+  text-align: center;
+  font-family: Helvetica, sans-serif, Arial;
+  color: indianred;
+}
+
+body {
+  width: 180px;
+  background-color: black;
+  border-radius: 20px;
+  text-align: center;
+  transition-duration: 1s;
+  transition-delay: 1s;
+}
+
+button {
+  /* margin: 0 auto; */
+  /* background-color: red; */
+}
